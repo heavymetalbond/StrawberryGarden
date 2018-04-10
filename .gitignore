@@ -1,0 +1,15 @@
+.DS_Store
+*/.DS_Store
+*.class
+*.jar
+.settings
+*.iml
+.idea/
+/data
+/target
+*/target
+*/baymax-adx-creative-service.iml
+**/log4j.properties
+*/.iml
+api/src/main/resources/
+api/src/test/
