@@ -13,7 +13,7 @@ public class RetrievingClassObjects {
         byte[] bytes = new byte[1024];
         Class c = bytes.getClass();
 
-        System.out.println(c.getName());
+        System.out.println(Light.class);
 
 
 
